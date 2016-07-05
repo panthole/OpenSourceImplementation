@@ -1,3 +1,4 @@
-# First Chapter
+# RxJava
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+ReactiveX is a library for composing asynchronous and event-based programs by using observable sequences.
+RxJava supports Java 6 or higher and JVM-based languages such as Groovy, Clojure, JRuby, Kotlin and Scala.
