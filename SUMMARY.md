@@ -35,6 +35,7 @@
 * 七、依赖注入
    * ButterKnife
    * Dagger2
+   * AndroidAnotations
 * [十、事件总线](shi_jian_zong_xian.md)
    * [EventBus](eventbus.md)
    * [Otto](otto.md)
