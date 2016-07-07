@@ -7,7 +7,7 @@
 * [二、图片加载](tu_pian_jia_zai.md)
    * [Android Universal Image Loader](android_universal_image_loader.md)
    * [Picasso](picasso.md)
-   * Fresco
+   * [Fresco](fresco.md)
    * [Glide](glide.md)
 * 三、图片处理
    * Picasso-transformations
