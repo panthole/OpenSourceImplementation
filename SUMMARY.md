@@ -43,6 +43,7 @@
    * MPAndroidChart
 * 九、后台处理
    * Tape
+   * android-priority-jobqueue
 * [十、事件总线](shi_jian_zong_xian.md)
    * [EventBus](eventbus.md)
    * [Otto](otto.md)
