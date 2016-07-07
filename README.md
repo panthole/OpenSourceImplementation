@@ -3,8 +3,8 @@
 
 1. 缓存 DiskLruCache	Java实现基于LRU的磁盘缓存
 2. 图片加载 Android Universal Image Loader	一个强大的加载，缓存，展示图片的库
-Picasso	一个强大的图片下载与缓存的库
-Fresco	一个用于管理图像和他们使用的内存的库
+   Picasso	一个强大的图片下载与缓存的库
+   Fresco	一个用于管理图像和他们使用的内存的库
 Glide	一个图片加载和缓存的库
 3. 图片处理
 名称	描述
