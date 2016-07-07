@@ -4,6 +4,7 @@
 * [2.图片加载](tu_pian_jia_zai.md)
    * Android Universal Image Loader
    * Picasso
+   * Fresco
 * [10.事件总线](shi_jian_zong_xian.md)
    * [EventBus](eventbus.md)
    * [Otto](otto.md)
