@@ -2,7 +2,6 @@
 
 * [前言](qian_yan.md)
 * [目录](README.md)
-   * 五、网络解析
 * [一、缓存](yi_3001_huan_cun.md)
    * [DiskLruCache](disklrucache.md)
 * [二、图片加载](tu_pian_jia_zai.md)
@@ -20,6 +19,7 @@
    * OkHttp
    * Retrofit
    * Volley
+* 五、网络解析
 * [十、事件总线](shi_jian_zong_xian.md)
    * [EventBus](eventbus.md)
    * [Otto](otto.md)
