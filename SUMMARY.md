@@ -47,6 +47,7 @@
    * [Agera](agera.md)
    * [RxAndroid](rxandroid.md)
 * 十二、Log框架
+* 十三、测试框架
 * 十五、性能优化
    * [LeakCanary](leakcanary.md)
    * [ACRA](acra.md)
@@ -59,5 +60,4 @@
    * MVC
    * MVVP
 * [参考文献](can_kao_wen_xian.md)
-* 十三、测试框架
 
