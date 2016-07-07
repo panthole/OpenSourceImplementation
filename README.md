@@ -1,8 +1,7 @@
 目录
 一、缓存
 DiskLruCache	Java实现基于LRU的磁盘缓存
-2.图片加载
-名称	描述
+二、图片加载
 Android Universal Image Loader	一个强大的加载，缓存，展示图片的库
 Picasso	一个强大的图片下载与缓存的库
 Fresco	一个用于管理图像和他们使用的内存的库
