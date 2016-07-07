@@ -52,6 +52,7 @@
    * [Agera](agera.md)
    * [RxAndroid](rxandroid.md)
 * 十二、Log框架
+   * Logger
 * 十三、测试框架
 * 十四、调试框架
 * 十五、性能优化
