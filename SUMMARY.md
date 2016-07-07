@@ -16,10 +16,10 @@
    * [RxJava](rxjava.md)
    * [Agera](agera.md)
    * [RxAndroid](rxandroid.md)
+* 十五、性能优化
+   * LeakCanary
 * 十六、跨平台开发
    * [react native](react_native.md)
 * 十七、Android源码
    * 源码分析
-* 十五、性能优化
-   * LeakCanary
 
