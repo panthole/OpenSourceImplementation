@@ -8,5 +8,5 @@
    * [RxAndroid](rxandroid.md)
 * [事件总线](shi_jian_zong_xian.md)
    * [EventBus](eventbus.md)
-   * Otto
+   * [Otto](otto.md)
 
