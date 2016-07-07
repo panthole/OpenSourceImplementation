@@ -17,7 +17,7 @@
    * [Agera](agera.md)
    * [RxAndroid](rxandroid.md)
 * 十五、性能优化
-   * LeakCanary
+   * [LeakCanary](leakcanary.md)
    * ACRA
 * 十六、跨平台开发
    * [react native](react_native.md)
