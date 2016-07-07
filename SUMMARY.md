@@ -18,6 +18,7 @@
    * [RxAndroid](rxandroid.md)
 * 十五、性能优化
    * LeakCanary
+   * ACRA
 * 十六、跨平台开发
    * [react native](react_native.md)
 * 十七、Android源码
