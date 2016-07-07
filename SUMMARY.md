@@ -54,5 +54,6 @@
 * 十八、框架
    * MVP
    * MVC
+   * MVVP
 * [参考文献](can_kao_wen_xian.md)
 
