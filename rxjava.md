@@ -1,3 +1,3 @@
 # RxJava
 
-异步
+异步是RxJava的核心
