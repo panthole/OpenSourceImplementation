@@ -60,6 +60,7 @@
    * Robotium
    * Robolectric
 * 十四、调试框架
+   * Stetho
 * 十五、性能优化
    * [LeakCanary](leakcanary.md)
    * [ACRA](acra.md)
