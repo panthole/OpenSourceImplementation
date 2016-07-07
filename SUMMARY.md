@@ -39,6 +39,7 @@
    * RoboGuice
 * 八、图表
    * WilliamChart
+   * HelloCharts
 * 九、后台处理
 * [十、事件总线](shi_jian_zong_xian.md)
    * [EventBus](eventbus.md)
