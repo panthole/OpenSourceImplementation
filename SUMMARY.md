@@ -38,6 +38,7 @@
    * AndroidAnotations
    * RoboGuice
 * 八、图表
+* 九、后台处理
 * [十、事件总线](shi_jian_zong_xian.md)
    * [EventBus](eventbus.md)
    * [Otto](otto.md)
@@ -57,5 +58,4 @@
    * MVC
    * MVVP
 * [参考文献](can_kao_wen_xian.md)
-* 九、后台处理
 
