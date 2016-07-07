@@ -6,8 +6,8 @@
    * [DiskLruCache](disklrucache.md)
 * [二、图片加载](tu_pian_jia_zai.md)
    * [Android Universal Image Loader](android_universal_image_loader.md)
-   * [Picasso](picasso.md)
-   * Fresco
+   * Picasso
+   * [Fresco](fresco.md)
    * Glide
 * [十、事件总线](shi_jian_zong_xian.md)
    * [EventBus](eventbus.md)
