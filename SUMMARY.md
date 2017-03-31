@@ -2,6 +2,10 @@
 
 * [前言](qian_yan.md)
 * [目录](README.md)
+* [一、响应式编程](reactive_programming/reactive_programming.md)
+    * [RxJava](reactive_programming/rxjava.md)
+    * [RxAndroid](reactive_programming/rxandroid.md)
+    * [Agera](reactive_programming/agera.md)
 * [一、缓存](yi_3001_huan_cun.md)
     * [DiskLruCache](disklrucache.md)
 * [二、图片加载](tu_pian_jia_zai.md)
@@ -47,10 +51,6 @@
 * [十、事件总线](shi_jian_zong_xian.md)
     * [EventBus](eventbus.md)
     * [Otto](otto.md)
-* [十一、响应式编程](xiang_ying_shi_bian_cheng.md)
-    * [RxJava](reactive_programming/rxjava.md)
-    * [Agera](agera.md)
-    * [RxAndroid](rxandroid.md)
 * 十二、Log框架
     * Logger
     * Hugo
