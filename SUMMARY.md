@@ -48,7 +48,7 @@
     * [EventBus](eventbus.md)
     * [Otto](otto.md)
 * [十一、响应式编程](xiang_ying_shi_bian_cheng.md)
-    * [RxJava](rxjava.md)
+    * [RxJava](reactive_programming/rxjava.md)
     * [Agera](agera.md)
     * [RxAndroid](rxandroid.md)
 * 十二、Log框架
