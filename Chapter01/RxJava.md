@@ -102,13 +102,29 @@ RxJava 有四个基本概念：Observable (可观察者，即被观察者)、 Ob
 1.观察者模型 Observables
 Observable.subscribe(Observer)
 
+###2.调度器 Scheduler
+ * SINGLE
+ * COMPUTATION
+ * IO
+ * TRAMPOLINE
+ * NEW_THREAD
+ * **MAIN_THREAD**
 
+###3.操作符 Operators(每个类别介绍一个最常用的典型操作符，重点陈述这个操作的源码实现机理)
+ * 创建操作
+ * 转化操作
+ * 过滤操作
+ * 组合操作 
+   
+	Zip操作符
 
-2.变换 Operator 
-转换操作符、过滤操作符、组合操作
-filter(Func1) 过滤事件，返回false的事件将被抛弃
-map(Func) 事件参数类型映射变换器，可将输入的事件参数类型通过自定义函数解析变换为另一实体类型
-flatMap(Func) 事件参数类型分解映射变换器，可将输入的单个事件类型解析、分解、变换为一个新的次级Observable对象（包含可发送不定量异步事件），直观上是把每个单一事件映射为每一组新的（异步）事件，用于事件分解或插入新的异步操作
+ * 错误处理操作
+ * 辅助操作
+ * 条件和布尔操作
+ * 算术和聚合操作
+ * 连接操作
+ * 转换操作
+ * **背压操作(重点)**
 
 
 http://reactivex.io/documentation/operators.html#alphabetical
